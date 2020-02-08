@@ -1,0 +1,5 @@
+train 80% of dataset
+test 20% of dataset
+
+fit = train data
+predict = test data
